@@ -6,3 +6,6 @@
 
 ## Result : 
 ![image](https://github.com/user-attachments/assets/df4648ef-d84b-49bc-8c78-f736a87560d2)
+
+# Visit the page
+[QRCodeGenerator](https://fernandolthomaz.github.io/qrcodegenerator/)
