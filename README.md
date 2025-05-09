@@ -1,4 +1,4 @@
-QR Code Generator
+# QR Code Generator
 
 Um projeto simples e eficiente para gerar códigos QR a partir de URLs. Desenvolvido com tecnologias web modernas, este gerador oferece uma interface intuitiva e responsiva.
 
